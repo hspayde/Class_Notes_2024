@@ -61,3 +61,32 @@ Later waves of migration are tied to neoliberal policies from the 1970s and afte
 E.g. NAFTA - Northat American Free Trade Agreement, 1994 - followed by several other through the next decades.
 
 [Youtube Video](https://www.youtube.com/watch?v=1XJ4hKmWYWw)
+
+
+## **9/30/2024**
+### **Marriage and Family**
+#### **Marriage**
+**Marriage definition and functions**
+
+Marriage is a socially recognized mechanism for the creation of new family relationships.
+Marriage is more than just sexual reproduction, it involves social recognition of marriage ties.
+Marriage creates ties of relationship between existing families, and allows for the creation of new ties between parents and children.
+Marriage is one of the few **cultural universals** - something found in all cultures.
+
+Marriage follows certain "rules" or patterns within each culture.
+_e.g. **incest** taboo_
+
+**Marriage Terminology**
+
+_Number of marriage partners:_
+**Monogomy** - only one spouse (at a time);
+**Polygamy** - more than one spouse - two main subtypes,
+**Polyginy** - more than one wife permitted,
+**Polyandry** - more than one husband permitted.
+
+#### **Households, gender, and families in Latin America**
+
+Ancient and later indigenous household organization was closely tied to agricultural production.
+It was often a strongly gendered division of labor.
+These households were often matriarchal; however, in Colonialism, Europeans and Africans were integrating with the indigenous.
+This often reorganized into patriarchal households within a racial hierarchy.
