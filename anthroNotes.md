@@ -18,7 +18,7 @@ _e.g_ - Egypt, China, Mesoamerica, Andes
 _e.g_ - Rulers/nobles, priests, warriors, merchants, **peasants**. 
 
 #### **Class Transformations:**
-_Agricultural classes_ are transformed by emergence of capitalism and the Industrial Revolution in the 18<sup>th</sup> and 19<sup>th</sup> centuries. Happened first in Britain, then across Europe and the U.S., then Japan. Thisled to an _Advent of factories, wage-work, and production for markets_.
+_Agricultural classes_ are transformed by emergence of capitalism and the Industrial Revolution in the 18<sup>th</sup> and 19<sup>th</sup> centuries. Happened first in Britain, then across Europe and the U.S., then Japan. This led to an _Advent of factories, wage-work, and production for markets_.
 
 These **transformations** led to prominent accounts by philosophers and early social scientists.
 A key thinker was ***Karl Marx***, a German philosopher in the mid-late 19<sup>th</sup> century.
