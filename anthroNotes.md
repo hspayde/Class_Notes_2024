@@ -86,7 +86,42 @@ _Number of marriage partners:_
 
 #### **Households, gender, and families in Latin America**
 
-Ancient and later indigenous household organization was closely tied to agricultural production.
-It was often a strongly gendered division of labor.
+Ancient and later indigenous household organization were closely tied to agricultural production.
+There was often a strongly gendered division of labor.
 These households were often matriarchal; however, in Colonialism, Europeans and Africans were integrating with the indigenous.
-This often reorganized into patriarchal households within a racial hierarchy.
+This often reorganized the house into patriarchal households within a racial hierarchy.
+
+## **10/11/2024**
+### **Gender and Sexuality**
+#### **Sex, Gender, and Sexuality**
+Anthropology and social sciences emphasize cultural construction of sex and gender at different times and places.
+
+**Cultural construction of sex and gender.**
+Some Anthropological works have descriptions of "third" genders that aren't purely male nor female, but a combination of the two.
+_E.g "two spirits" among Native North Americans; "Muxe" among Zapotec in Oaxaca, Mexico; "Travestis" (cross-dressers) in Brazil._
+
+#### **Latin American gender relations past & present**
+Ancient patterns of gender relations were often characterized by **gender complementarity and parallelism**.
+Men and women were held differently, but they had complementary roles.
+This was especially notable in the Andes and in Mesoamerica.
+_E.g Aztec women who died in childbirth were equated the same as male warriors._
+Ancient gender complementarity usually included patterns of male and female household labor.
+The specifics depended significantly on the type of subsistence and the social status.
+
+Colonialism brought new gender ideologies into Latin American societies.
+There were often strong differences in gender relations among European, indigenous, and African groups.
+Gender complementarity often got reworked into more explicitly patriarchal gender systems of male rule.
+Those differences combined with patterns of colonial domination led to a much worse situation for indigenous and African women.
+With the beginnings of independence and later changes to capitalism, gender relations continued to shift toward patriarchy. The ideologies of **marianismo** and **machismo** reach new heights in the early to mid-20<sup>th</sup> century.
+
+**Marianismo** - idealogical stereotype of a long-suffering Latin American woman.
+
+**Machismo** - idealogical stereotype of a hard-drinking, fearless, sexually aggressive male.
+
+Present-day gender relations are quite different from the past.
+
+#### **Sexual Identities in Latin America**
+The sexual identities in Latin America often rely on very different assumptions about sexuality and sexual identity from the U.S. and Canada.
+In particular, intermediate degrees of sexual identity from heterosexuality to homosexuality are often tied to a specific sexual role in relationships.
+_E.g. Male partners of travesti or muxe are not considered homosexual_
+There are strong gay and lesbian movements in many countries, although there are still widespread patterns of stigma in many places in Latin America.
